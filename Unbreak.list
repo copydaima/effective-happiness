@@ -1,4 +1,23 @@
-DOMAIN-KEYWORD,speedtest,DIRECT
-DOMAIN-KEYWORD,mulgore,DIRECT
-DOMAIN-KEYWORD,zxzj,DIRECT
-DOMAIN-KEYWORD,ikandy,DIRECT
+# speedtest
+DOMAIN-SUFFIX,cdnst.net
+DOMAIN-SUFFIX,cellmaps.com
+DOMAIN-SUFFIX,ekahau.cloud
+DOMAIN-SUFFIX,ekahau.com
+DOMAIN-SUFFIX,fast.com
+DOMAIN-SUFFIX,ookla.com
+DOMAIN-SUFFIX,ooklaserver.net
+DOMAIN-SUFFIX,pingtest.net
+DOMAIN-SUFFIX,speed.cloudflare.com
+DOMAIN-SUFFIX,speed.dler.io
+DOMAIN-SUFFIX,speedtest.co
+DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,speedtestcustom.com
+DOMAIN-SUFFIX,webtest.net
+DOMAIN-KEYWORD,speedtest
+USER-AGENT,SpeedTest*
+# 莫高雷emby
+DOMAIN-KEYWORD,mulgore
+# 在线之家
+DOMAIN-KEYWORD,zxzj
+# 爱看电影
+DOMAIN-KEYWORD,ikandy
