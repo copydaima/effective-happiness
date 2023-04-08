@@ -10,6 +10,8 @@ PROCESS-NAME,Transmission
 PROCESS-NAME,uTorrent
 PROCESS-NAME,WebTorrent
 PROCESS-NAME,WebTorrent Helper
+# epic
+DOMAIN-KEYWORD,epic
 # 莫高雷Emby
 DOMAIN-KEYWORD,mulgore
 # 在线之家
