@@ -1,5 +1,4 @@
-# 直连服务
-# Epic
+# Epic Game
 DOMAIN-SUFFIX,battlebreakers.com
 DOMAIN-SUFFIX,eac-cdn.com
 DOMAIN-SUFFIX,easy.ac
@@ -16,11 +15,11 @@ DOMAIN-SUFFIX,spyjinx.com
 DOMAIN-SUFFIX,unrealengine.com
 DOMAIN-SUFFIX,unrealtournament.com
 DOMAIN-KEYWORD,epicgames
-# 热榜
+# 今日热榜
 DOMAIN-SUFFIX,rebang.today
 # 莫高雷Emby
-DOMAIN-KEYWORD,mulgore
+DOMAIN-SUFFIX,mulgore.net
 # 在线之家
 DOMAIN-KEYWORD,zxzj
 # 爱看电影
-DOMAIN-KEYWORD,ikandy
+DOMAIN-SUFFIX,ikandy.fun
