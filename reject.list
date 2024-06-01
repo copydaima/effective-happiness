@@ -1,0 +1,4 @@
+# 去广告
+AND,((DOMAIN-SUFFIX,msstatic.com), (OR,((DOMAIN-KEYWORD,livewebbs2), (DOMAIN-KEYWORD,business), (DOMAIN-KEYWORD,file)))),REJECT-DROP
+DOMAIN,metrics-picture.d.meituan.net,REJECT-DROP
+DOMAIN,maplocatesdksnapshot.d.meituan.net,REJECT-DROP
