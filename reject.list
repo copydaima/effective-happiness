@@ -2,3 +2,4 @@
 AND,((DOMAIN-SUFFIX,msstatic.com), (OR,((DOMAIN-KEYWORD,livewebbs2), (DOMAIN-KEYWORD,business), (DOMAIN-KEYWORD,file))))
 DOMAIN,metrics-picture.d.meituan.net
 DOMAIN,maplocatesdksnapshot.d.meituan.net
+DOMAIN-SUFFIX,149.88.82.119
